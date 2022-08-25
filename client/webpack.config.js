@@ -12,9 +12,6 @@ module.exports = () => {
     entry: {
       main: './src/js/index.js',
       install: './src/js/install.js',
-      database: './src/js/database.js',
-      editor: './src/js.editor.js',
-      header: './src/js/header.js'
     },
     output: {
       filename: '[name].bundle.js',
@@ -23,7 +20,7 @@ module.exports = () => {
     plugins: [
       new HtmlWebpackPlugin({
         template: './index.html',
-        title: 'JATE'
+        title: 'JATE',
       }),
 
       new InjectManifest({
