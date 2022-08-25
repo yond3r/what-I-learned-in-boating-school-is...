@@ -12,7 +12,7 @@
 
  
  ## screenshots
- - ![alt text](./client/src/images/localAppView.png)
+ - ![alt text](./client/src/images/applicationView.png)
  - ![alt text](./client/src/images/localJate.png)
 
  ## deployed Link
