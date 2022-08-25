@@ -12,14 +12,14 @@
 
  
  ## screenshots
- - ![alt text]
- - ![alt text]
+ - ![alt text](./client/src/images/localAppView.png)
+ - ![alt text](./client/src/images/localJate.png)
 
  ## deployed Link
  [heroku link](https://boating-school.herokuapp.com/)
  
  ## description 
- This application is a text-based editor, called JATE. It runs either locally, in the browser, or in the deployed link via heroku. This application allows for small/snippets of notes. This application can be used for a myraid of things, from quick reminders about grocery shopping, to upcoming meetings, or code ideas that you just *have to jot down, right that second.*
+ This application is a text-based editor, called JATE. It runs either locally, in the browser, or in the deployed link via heroku. This application allows for small/snippets of notes. This application can be used for a myraid of things, from quick reminders about grocery shopping, to upcoming meetings, or code ideas that you just *have to jot down, right this second.*
 
 
  ## user story
