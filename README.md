@@ -23,9 +23,9 @@
 
 
  ## user story
-* AS A developer who writes about tech
-* I WANT a CMS-style blog site
-* SO THAT I can publish articles, blog posts, and my thoughts and opinions
+* AS A developer
+* I WANT to create notes or code snippets with or without an internet connection
+* SO THAT I can reliably retrieve them for later use
 
 ## installation
 
